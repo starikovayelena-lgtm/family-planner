@@ -196,3 +196,21 @@ Palette: ocean blue, turquoise, hot pink/coral, palm green, natural rattan/white
 - **Amelia (co-host):** coordinated but not matching, e.g. a coral or white dress with a hibiscus clip, plus a "game leader" role. Sizes: [fill in].
 - **Alex:** an aloha shirt (fun, optional). **Yelena:** a floral top or dress plus a hibiscus hair clip.
 - **Guests:** no dress code. Every girl gets a lei at the door instead.
+
+## amazon.se picks (searched 1 Nov; check price, stock and delivery date before buying)
+| Item | Pick | Price seen |
+|---|---|---|
+| Leis + hair clips | gotyou 12 leis + 12 plumeria clips, buy ×2 (B07TT5P9C7), or BangShou 50-pack (B07FCTK553) | –, 248,89 kr |
+| Balloon garland | BIRLON pink + blue kit (B09DC893KV); add white balloons | 175,80 kr |
+| Palm-leaf balloons | Palm-tree foil balloons (B0F5CPJRXZ) | – |
+| Stitch balloon | Procos Lilo & Stitch foil 75×86 cm (B0FFN47Q6M) | 82,76 kr |
+| "6" balloon | Bluelves pink XXL 101 cm (B0C3HKHBP2), low stock | 36,49 kr |
+| Tablecloth | Talking Tables palm-print 180×120 (B078HS87XY) | 98,61 kr |
+| Plates | GoBeTree palm-leaf plates 25 st (B0873B7MTR) | 164,33 kr |
+| Napkins / fairy lights | Not found on amazon.se, so buy locally (Panduro, Søstrene Grene, Clas Ohlson, ICA) | |
+| Sofia outfit (116) | No Hawaii dress in 116 found. Options: Disney Stitch sweatshirt in 116 (B0CGF934XV) + pink tulle skirt + hibiscus clip, or check the Disney Stitch bubble dress (B0DT4X2Z1W) size selector. Also check H&M/Lindex locally | 685,60 kr (dress) |
+
+## Ordering the cake in Höllviken
+- **Björns Konditori:** shop in Höllviken (Polisvägen 3, tel 040-45 01 30, from a 2020 guide) and in Vellinge (Järnvägsgatan 2, tel 040-42 42 29). Call Mon 2 Nov morning.
+- Ask: can they make it by Sat 14 Nov, price for about 20 slices, nut-free, pickup time Saturday morning, and whether you can bring your own Stitch topper.
+- Backup: call the ICA in Höllviken about tårtbeställning, or make a cupcake tower.
