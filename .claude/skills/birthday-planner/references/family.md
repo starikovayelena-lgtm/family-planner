@@ -11,6 +11,8 @@ Update this file after every birthday (workflow step 8). It is the skill's memor
 - **Presents:** opened **during** the kalas (log who gave what live in the tracker)
 - **Typical budget:** `?` SEK per kalas
 - **Guest list:** Notion database "Birthday party guests" (https://app.notion.com/p/44f893186e8c40a0a4964fa8564fa3bc), one row per guest, `Party` = "<Child> <Year>".
+- **Party to-do pages (Notion):** Sofia 2026: https://app.notion.com/p/40b129b2a093818484a9c902459a4275
+- **Sizes:** Sofia dress 116 (2026)
 - **Email for drafts/finals:** starikovayelena@gmail.com (send invitations and WhatsApp texts here when she asks)
 - **Shopping:** likes ordering theme items from **amazon.se**. ICA/local for food.
 
@@ -23,7 +25,7 @@ Update this file after every birthday (workflow step 8). It is the skill's memor
 | Favourite food / cake | `?` |
 | Allergies | `?` |
 | Best friends | `?` |
-| Sizes (clothes / shoes) | `?` |
+| Sizes (clothes / shoes) | dress 116 (2026), shoes `?` |
 | Wishlist | `?` (keep in the tracker's wishlist.csv) |
 
 ## Amelia
@@ -35,7 +37,7 @@ Update this file after every birthday (workflow step 8). It is the skill's memor
 | Favourite food / cake | `?` |
 | Allergies | `?` |
 | Best friends | `?` |
-| Sizes (clothes / shoes) | `?` |
+| Sizes (clothes / shoes) | dress 116 (2026), shoes `?` |
 | Wishlist | `?` |
 
 ## Family traditions (on the actual birthday)

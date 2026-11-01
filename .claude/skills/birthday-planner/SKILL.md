@@ -59,6 +59,8 @@ Run `python3 scripts/party_tracker.py --help` for all commands (`wish-add`, `wis
 When Yelena says **"approve"**: re-read the design (she may have edited it), export a PNG, and email her both the image (or its download link) and the WhatsApp class-group text **as plain text** (no HTML), so she can copy and paste it on her phone. Also show the WhatsApp text in chat in a code block.
 
 **5. Plan.** Use the playbook and theme pack. If the guest count is unknown, plan for the class size from family.md (otherwise 12), label it a default, and rescale once RSVPs arrive (`status` prints quantities). Output a timed program, a shopping list split into *amazon.se* (order ≥7 days ahead, give search terms) and *local/ICA*, food quantities from the guest count, a budget, and adult roles.
+Put the actionable part in **Notion**: one private to-do page per party ("<Child> <age> år: <theme>-kalas to-do") with dated checkbox sections, decor/dress/gift checklists with amazon.se links, and links to the guest database, the Canva design and the GitHub plan. The full plan lives in `birthdays/<child>-<year>/plan.md` in the family-planner repo. Commit and push after changes.
+Gifts and outfits don't have to match the theme: offer a mix (theme item + general age-appropriate ideas).
 
 **6–7. Messages and gifts.** Use the WhatsApp templates. For the gift table and thank-yous, run `table --view gifts` and `thankyou`. Never invent who gave what; ask if a gift is unknown.
 
