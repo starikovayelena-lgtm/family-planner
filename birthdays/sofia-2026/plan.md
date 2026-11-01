@@ -161,3 +161,38 @@ python3 $S set --dir $D --name Namn1 --rsvp yes --allergies gluten --parent Anna
 python3 $S init --dir $D --child Sofia --age 6 --date 2026-11-14 --time "14.00-16.00" --address "<riktig adress>, Skanör-Falsterbo" --rsvp-by 2026-11-06 --host Yelena --phone "<telefon>"
 python3 $S status --dir $D
 ```
+
+---
+## Sending the invitation (Mon 2 Nov)
+1. Download the PNG from Canva (https://www.canva.com/d/G3AKIp5KyIZioXt → Share → Download → PNG). The emailed link expires.
+2. Post the image + the Aloha text (emailed 1 Nov) in the class WhatsApp group. All girls are invited, so the group is fine.
+3. No class group, or not in it? Ask the class parent (klassförälder) or the teacher to forward, or send the individual-message template to each parent.
+4. As answers arrive, add them to Notion "Birthday party guests" (Party = Sofia 2026), or tell Claude the names.
+
+## Decor: "Hawaii lagoon" (matches the invitation)
+Palette: ocean blue, turquoise, hot pink/coral, palm green, natural rattan/white. Keep it to these colours, which makes it look styled rather than busy.
+
+| Zone | What | Notes |
+|---|---|---|
+| Entrance | Basket of flower leis (one per guest, each girl gets one at the door), small "Aloha Sofia" sign | Print the sign from Canva in A4 |
+| Photo wall / cake spot | Balloon garland in blue, turquoise, pink and white + palm-leaf foil balloons + big "6" foil balloon + a Stitch foil balloon | The cake goes in front of it, which gives the best photos |
+| Party table | Turquoise tablecloth, palm-leaf plates, hibiscus napkins, a real pineapple as centrepiece, small Stitch figures | Figures double as treasure-hunt prizes |
+| Craft corner | Stitch-ears headbands, felt ears, glue dots | Arrival activity |
+| Small extras | Paper hibiscus flowers on the walls, fairy lights (it's dark in November) | |
+
+**amazon.se search terms (order Mon 2–Tue 3 Nov; check delivery is by Thu 12 Nov):**
+"ballongbåge kit blå rosa turkos", "palmblad folieballong", "sifferballong 6 rosa stor", "Stitch folieballong", "hawaii blomsterkrans 24 st", "hawaii bordsduk turkos", "palmblad tallrikar kalas", "hibiskus servetter", "Stitch figurer set", "Stitch tårtdekoration", "pappersblommor hibiskus dekoration", "ljusslinga batteri".
+
+## Cake (about 20 slices, nut-free)
+- **Option A (recommended): order from a bakery.** Lead found: **Björns konditori**, Höllviken (Polisvägen 3) and Vellinge (Järnvägsgatan 2). Details are from a 2020 guide, so call to confirm. Call **Mon 2 Nov**, pick up Sat 14 Nov morning.
+  Order text: *"Hej! Jag vill beställa en barnkalastårta till lördag 14 november, ca 20 bitar, nötfri. Tema Lilo & Stitch/Hawaii: turkos-blå, gärna med rosa hibiskusblommor. Jag tar med en Stitch-figur till toppen. Skylt: 'Sofia 6 år'. Vad kostar det?"*
+- **Option B: cupcake tower.** 24 blue-iced cupcakes with mini Stitch/hibiscus toppers + a small cake on top for the candles. Easy for kids to eat, no cutting.
+- **Option C: homemade.** Two-layer sponge, turquoise ombre buttercream, Stitch topper, edible sugar flowers. Bake Fri 13 Nov.
+- Candles: big "6" + sparkler candle.
+
+## Outfits
+- **Sofia (the star):** a pink or turquoise hibiscus dress or a Stitch dress, a hibiscus hair clip or flower crown, and a lei. Sizes: [fill in, probably 116/122].
+  amazon.se: "hawaii klänning flicka", "Stitch klänning barn", "hibiskus hårspänne", "blomsterkrona hår barn".
+- **Amelia (co-host):** coordinated but not matching, e.g. a coral or white dress with a hibiscus clip, plus a "game leader" role. Sizes: [fill in].
+- **Alex:** an aloha shirt (fun, optional). **Yelena:** a floral top or dress plus a hibiscus hair clip.
+- **Guests:** no dress code. Every girl gets a lei at the door instead.
