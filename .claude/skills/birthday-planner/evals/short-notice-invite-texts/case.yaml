@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: short-notice-invite-texts
+expected_outcome: |
+  Swedish invitation + class-group WhatsApp text with correct weekday (lördag 14 november), age 6, RSVP date, placeholders for address/phone, short-notice mode noted, tracker created.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: amelia-first-time-plan
+expected_outcome: |
+  Reads the family profile, notes Amelia's exact birthday is unknown and asks for it, proposes age-appropriate formats for 9 with a recommended default, asks at most 4 questions, and gives next steps with dates.

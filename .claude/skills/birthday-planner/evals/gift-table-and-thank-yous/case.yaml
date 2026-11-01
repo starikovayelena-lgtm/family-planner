@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: gift-table-and-thank-yous
+expected_outcome: |
+  Gift table listing Elsa, Maja and Wilma (Alva excluded or marked absent), Wilma's gift flagged unknown, Swedish thank-you messages per family naming the gift, no invented gift for Wilma.
